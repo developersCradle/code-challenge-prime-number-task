@@ -5,18 +5,9 @@ const PORT = 3001
 
 console.log(`Server running on port ${PORT}`)
 
-let note = [
-    1,2
-  ]
-
 app.listen(PORT)
 app.use(express.json())
 app.use(cors()) //CORS fix
-
-
-app.get('/', (req, res) => {
-    res.json(note)
-  })
 
 app.post('/myapi/checkprime', (request, response) => {
     let data = request.body.number;//number is type inside
