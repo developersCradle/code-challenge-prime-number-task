@@ -10,8 +10,10 @@ then start frontend
 
 ### `npm start`
 
-Open developers tools and console to see returnig result
 Open (http://localhost:3000) to view it in the browser.
+
+Open developers tools and console to see returnig result
+
 
 
 Open antoher cmd and goto `\backEndKoodipahkina`
