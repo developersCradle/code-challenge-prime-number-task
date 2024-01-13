@@ -37,6 +37,8 @@ Back-end and front-end app
 a) laskea yhteen lukuja sekä kertoa onko summattu luku alkuluku
 b) kertoa onko jokin luku alkuluku
 
+## How to run
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 First install
@@ -47,9 +49,11 @@ Then start frontend
 
 ### `npm start`
 
-Open (http://localhost:3000) to view it in the browser.
-Open developers tools and console to see returning result
-Open another cmd and go to `\backEndKoodipahkina` folder
-and `npm start` to start backend
+Open (http://localhost:3000) to view it in the browser. <br>
+Open developers tools and console to see returning result. <br>
+Open another cmd and go to `\backEndKoodipahkina` folder and `npm start` to start backend
 
+# What I Learned
 
+- Migrated from Java to Ts/Js first time and got working prototype
+- Full stack app in React 
