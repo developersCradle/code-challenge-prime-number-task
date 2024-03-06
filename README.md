@@ -1,4 +1,7 @@
-# Code challenge, prime number task
+
+<p align="center">
+  <img src="terveystaloLogo.png" alt="Terveystalo Logo" width="400"/>
+</p>
 
 # Task Eng 
 
@@ -30,7 +33,7 @@ Tehtävän voi palauttaa minulle esim. github repositorion tai vaikka zip filen 
 
 <hr>
 
-![koodiPahkina](demo.PNG)
+<img id="koodiPahkina" src="demo.PNG" alt="alt text" width="700"/>
 
 Back-end and front-end app
 
@@ -57,3 +60,8 @@ Open another cmd and go to `\backEndKoodipahkina` folder and `npm start` to star
 
 - Migrated from Java to Ts/Js first time and got working prototype
 - Full stack app in React 
+
+
+# Iteration after feedback
+
+- todo
